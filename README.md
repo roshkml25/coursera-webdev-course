@@ -5,6 +5,6 @@ Greetings of the day!
 
 Welcome to my repository containing the solutions to the Module Assignments mentioned in the course. 
 
-© K Roshan, 2022
+© 2022, K Roshan
 
 All Rights Reserved
